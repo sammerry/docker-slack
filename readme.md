@@ -1,5 +1,7 @@
 # Docker Slack
 
+Its probably easier to use the web UI, but for those interested...
+
 Run slack on other distributions of linux than Debian
 
 create a bin file in your home directory if you dont have one already
